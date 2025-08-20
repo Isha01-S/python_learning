@@ -1,5 +1,5 @@
 def goodday(name,ending): #name is a parameter
-    print("Good Day "+ name)#string concatination
+    print("Good Day "+name)#string concatination
     print(ending)
     return "done"
 
