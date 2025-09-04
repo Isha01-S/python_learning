@@ -1,0 +1,1 @@
+I am old.txt and I am to be renamed as renamed_by_python.txt
