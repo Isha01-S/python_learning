@@ -1,6 +1,6 @@
 class Employee:
     a=1
-    @classmethod
+    @classmethod #this shows class attributes 
     def show(cls):
         print(f"The class value of a is {cls.a}. ")
 
