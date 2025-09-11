@@ -1,0 +1,1 @@
+'''‘global’ keyword is used to modify the variable outside of the current scope.'''
